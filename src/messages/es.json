@@ -1,0 +1,36 @@
+{
+  "IndexPage": {
+    "profesional_description": "Soy Fran, un Desarrollador de software especializado en la creación de aplicaciones web con <strong>JavaScript</strong> y <strong>TypeScript</strong>, con amplios conocimientos de tecnologías como <strong>React, Next.js, Node.js y Express</strong>. Experiencia en la gestión de bases de datos <strong>SQL</strong> y <strong>NoSQL</strong>, y conocimientos esenciales en DevOps como gestión de VPS, despliegues, <strong>Docker</strong>, SO Linux, <strong>AWS</strong> y <strong>Google Cloud</strong>. Me centro en crear soluciones eficientes, escalables y seguras, en backend y frontend para ofrecer aplicaciones de calidad.",
+    "experience_title": "Experiencia",
+    "experience": {
+      "beder": {
+        "title": "Software Engineer",
+        "company": "Beder",
+        "location": "Barcelona, España",
+        "date": "Sep 2024 - Presente",
+        "description": "Desarrollo de plataforma B2B para aerolíneas, destinada a la comercialización de videos bajo licencia. Frontend construido con Next.js y React, y API REST desarrollada con Node.js y Express, gestionada en <strong>Google Cloud</strong> y <strong>AWS</strong>. Despliegues automatizados mediante CI/CD e integración de <strong>IA Google Gemini</strong> para análisis de video. Además, mantenimiento de una app y webapp que permite a los usuarios reservar experiencias directamente desde los videos, combinando la inspiración de redes sociales con reservas en tiempo real."
+      },
+      "trichter_first": {
+        "title": "Software Engineer",
+        "company": "Trichter Consulting",
+        "location": "Playa del Carmen, México",
+        "date": "Julio 2021 - Feb 2022",
+        "description": "Colaboración con equipos multidisciplinarios para implementar soluciones tecnológicas adaptadas al sector inmobiliario. Desarrollo de <strong>REST API</strong> escalables con <strong>Node.js</strong>, <strong>Express</strong>, <strong>Prisma</strong> y <strong>PostgreSQL</strong>, y posterior implementación de <strong>GraphQL API</strong> utilizando <strong>NestJS</strong>. Integración con APIs de terceros para conectar portales inmobiliarios y CRMs. Creación de frontend con <strong>Next.js</strong> y <strong>React.js</strong>, tanto para clientes como para uso interno, con un enfoque en interfaces dinámicas y responsivas. Gestión y despliegue de aplicaciones en la nube con <strong>Vercel</strong>, <strong>Docker</strong> y <strong>AWS</strong>, garantizando escalabilidad y alto rendimiento."
+      },
+      "trichter_second": {
+        "title": "CTO - Director de tecnología",
+        "company": "Trichter Consulting",
+        "location": "Playa del Carmen, México",
+        "date": "Feb 2022 - Ago 2023",
+        "description": "Colaboración con los directivos para alinear las <strong>necesidades empresariales</strong> con soluciones tecnológicas estratégicas que apoyen los objetivos a largo plazo. <strong>Liderazgo del equipo técnico</strong> en el desarrollo de software interno y soluciones personalizadas para clientes. Supervisión continua de sistemas implementados, resolviendo problemas rápidamente para minimizar tiempos de inactividad y mejorar la eficiencia operativa."
+      },
+      "freelance": {
+        "title": "Software Developer",
+        "company": "Freelance",
+        "location": "Argentina",
+        "date": "Enero 2018 - Abril 2020",
+        "description": "Desarrollo y mantenimiento de sitios web utilizando <strong>WordPress</strong>, integrando <strong>WooCommerce</strong> para funcionalidades de comercio electrónico y <strong>Elementor</strong> para diseño de páginas eficiente. Creación, implementación y mantenimiento de sitios web con <strong>JavaScript</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>Sass</strong> y <strong>Bootstrap</strong>. Gestión de despliegues en hosting compartidos para proyectos de clientes. Uso de Bootstrap y Sass para crear interfaces web responsivas y visualmente atractivas."
+      }
+    }
+  }
+}
