@@ -27,7 +27,7 @@ export default async function RootLayout({
   return (
     <NextIntlClientProvider messages={messages}>
       <html lang="en" className={openSans.variable}>
-        <body className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <body className="flex flex-col items-center">
           <ThemeProvider
             attribute="class"
             defaultTheme="system"

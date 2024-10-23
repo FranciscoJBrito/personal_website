@@ -8,21 +8,21 @@
         "company": "Beder",
         "location": "Barcelona, España",
         "date": "Sep 2024 – Present",
-        "description": "Desarrollo de plataforma B2B para aerolíneas, destinada a la comercialización de videos bajo licencia. Frontend construido con <strong>Next.js</strong> y <strong>React</strong>, y API REST desarrollada con <strong>Node.js</strong> y <strong>Express</strong>, gestionada en <strong>Google Cloud</strong> y <strong>AWS</strong>. Despliegues automatizados mediante CI/CD e integración de <strong>IA Google Gemini</strong> para análisis de video. Además, mantenimiento de una app y webapp que permite a los usuarios reservar experiencias directamente desde los videos, combinando la inspiración de redes sociales con reservas en tiempo real."
+        "description": "Desarrollo de plataforma B2B para aerolíneas, destinada a la comercialización de videos bajo licencia. Frontend construido con Next.js y React, y API REST desarrollada con Node.js y Express, gestionada en Google Cloud y AWS. Despliegues automatizados mediante CI/CD e integración de IA Google Gemini para análisis de video. Además, mantenimiento de una app y webapp que permite a los usuarios reservar experiencias directamente desde los videos, combinando la inspiración de redes sociales con reservas en tiempo real."
       },
       "trichter_first": {
         "title": "Software Engineer",
         "company": "Trichter Consulting",
         "location": "Playa del Carmen, México",
         "date": "Julio 2021 - Feb 2022",
-        "description": "Colaboración con equipos multidisciplinarios para implementar soluciones tecnológicas adaptadas al sector inmobiliario. Desarrollo de <strong>REST API</strong> escalables con <strong>Node.js</strong>, <strong>Express</strong>, <strong>Prisma</strong> y <strong>PostgreSQL</strong>, y posterior implementación de <strong>GraphQL API</strong> utilizando <strong>NestJS</strong>. Integración con APIs de terceros para conectar portales inmobiliarios y CRMs. Creación de frontend con <strong>Next.js</strong> y <strong>React.js</strong>, tanto para clientes como para uso interno, con un enfoque en interfaces dinámicas y responsivas. Gestión y despliegue de aplicaciones en la nube con Vercel, <strong>Docker</strong> y <strong>AWS</strong>, garantizando escalabilidad y alto rendimiento."
+        "description": "Colaboración con equipos multidisciplinarios para implementar soluciones tecnológicas adaptadas al sector inmobiliario. Desarrollo de REST API escalables con Node.js, Express, Prisma y PostgreSQL, y posterior implementación de GraphQL API utilizando NestJS. Integración con APIs de terceros para conectar portales inmobiliarios y CRMs. Creación de frontend con Next.js y React.js, tanto para clientes como para uso interno, con un enfoque en interfaces dinámicas y responsivas. Gestión y despliegue de aplicaciones en la nube con Vercel, Docker y AWS, garantizando escalabilidad y alto rendimiento."
       },
       "trichter_second": {
         "title": "CTO - Chief Technology Officer",
         "company": "Trichter Consulting",
         "location": "Playa del Carmen, México",
         "date": "Feb 2022 - Ago 2023",
-        "description": "Colaboración con equipos multidisciplinarios para implementar soluciones tecnológicas adaptadas al sector inmobiliario. Desarrollo de <strong>REST API</strong> escalables con <strong>Node.js</strong>, <strong>Express</strong>, <strong>Prisma</strong> y <strong>PostgreSQL</strong>, y posterior implementación de <strong>GraphQL API</strong> utilizando <strong>NestJS</strong>. Integración con APIs de terceros para conectar portales inmobiliarios y CRMs. Creación de frontend con <strong>Next.js</strong> y <strong>React.js</strong>, tanto para clientes como para uso interno, con un enfoque en interfaces dinámicas y responsivas. Gestión y despliegue de aplicaciones en la nube con Vercel, <strong>Docker</strong> y <strong>AWS</strong>, garantizando escalabilidad y alto rendimiento."
+        "description": "Colaboración con equipos multidisciplinarios para implementar soluciones tecnológicas adaptadas al sector inmobiliario. Desarrollo de REST API escalables con Node.js, Express, Prisma y PostgreSQL, y posterior implementación de GraphQL API utilizando NestJS. Integración con APIs de terceros para conectar portales inmobiliarios y CRMs. Creación de frontend con Next.js y React.js, tanto para clientes como para uso interno, con un enfoque en interfaces dinámicas y responsivas. Gestión y despliegue de aplicaciones en la nube con Vercel, Docker y AWS, garantizando escalabilidad y alto rendimiento."
       },
       "freelance": {
         "title": "Software Developer",
@@ -31,6 +31,51 @@
         "date": "Enero 2018 - Abril 2020",
         "description": "Desarrollo y mantenimiento de sitios web utilizando <strong>WordPress</strong>, integrando <strong>WooCommerce</strong> para funcionalidades de comercio electrónico y <strong>Elementor</strong> para diseño de páginas eficiente. Creación, implementación y mantenimiento de sitios web con <strong>JavaScript</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>Sass</strong> y <strong>Bootstrap</strong>. Gestión de despliegues en hosting compartidos para proyectos de clientes. Uso de Bootstrap y Sass para crear interfaces web responsivas y visualmente atractivas."
       }
+    },
+    "buttons": {
+      "read_more": "Read more",
+      "read_less": "Read less"
+    },
+    "projects": {
+      "nodeverses": {
+        "title": "Nodeverses",
+        "description": "A flexible Node.js framework for building scalable applications with ready-to-use architectures and design patterns, speeding up project setup 🪐",
+        "type_of_participation": "Creator",
+        "link": "https://github.com/nodeverses"
+      },
+      "whatMLmodel": {
+        "title": "WhatMLModel",
+        "description": "A web application that uses AI to identify the most suitable machine learning model for your dataset, based on the nature of the data and the problem to be solved 🤖",
+        "type_of_participation": "Contributor",
+        "link": "https://github.com/facundochavez/whatMLmodel"
+      },
+      "namviek": {
+        "title": "Namviek",
+        "description": "An open-source project management tool for small teams with a low budget. Includes essential features to manage your team.",
+        "type_of_participation": "Contributor",
+        "link": "https://github.com/hudy9x/namviek"
+      },
+      "summe": {
+        "title": "Summe",
+        "description": "An open-source article summarization application that transforms long articles into clear and concise summaries.",
+        "type_of_participation": "Creator",
+        "link": "https://github.com/FranciscoJBrito/summarizer-ai"
+      }
+    },
+    "posts": {
+      "first": {
+        "title": "Authentication and Authorization with Node.js, Express, JWT and Next.js",
+        "subtitle": "Part 1: Introduction to the Basics",
+        "link": "https://medium.com/@francisco.brito.developer/autenticación-y-autorización-con-node-js-express-jwt-y-next-js-parte-1-062cb533545c"
+      },
+      "second": {
+        "title": "Authentication and Authorization with Node.js, Express, JWT and Next.js",
+        "subtitle": "Part 2: Project Setup",
+        "link": "https://medium.com/@francisco.brito.developer/autenticación-y-autorización-con-node-js-express-jwt-y-next-js-e76965be7246"
+      }
+    },
+    "footer": {
+      "text": "Francisco Brito - 2024"
     }
   }
 }

@@ -1,20 +1,13 @@
 "use client";
 import { useTranslations } from "next-intl";
-import { useCallback, useState } from "react";
 import TimelineItem from "./TimelineItem";
 
 const Timeline = () => {
-  const [isExpanded, setIsExpanded] = useState(false);
-
-  const handleExpand = useCallback(() => {
-    setIsExpanded(!isExpanded);
-  }, [isExpanded]);
-
   const t = useTranslations("IndexPage.experience");
 
   return (
     <div className="flex h-fit w-full justify-start">
-      <div className="space-y-6 border-l">
+      <div className="space-y-6 border-l w-full">
         <TimelineItem
           company={t("beder.company")}
           location={t("beder.location")}
