@@ -6,27 +6,38 @@ import startsImage from "@/assets/images/stars.png";
 import namviekImage from "@/assets/images/namviek.png";
 import summeImage from "@/assets/images/summe.png";
 import BlogPostsCard from "@/components/BlogPosts/BlogPostsCard";
+import { ArrowUpRightIcon } from "@/assets/icons";
 
 export default function Home() {
   const t = useTranslations("IndexPage");
 
   return (
     <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 min-h-screen flex flex-col items-center gap-8 pt-20">
-      <p className="text-base font-opensans">
+      <p className="text-base leading-7">
         {t.rich("profesional_description", {
           strong: (children) => (
             <strong className="text-strong">{children}</strong>
           ),
         })}
       </p>
+      <div className="flex w-full justify-start items-center gap-1">
+        <a
+          className="flex items-center text-sm font-semibold text-power border-b border-power"
+          href={t("buttons.download_cv.link")}
+          target="blank"
+        >
+          {t("buttons.download_cv.text")}
+          <ArrowUpRightIcon />
+        </a>
+      </div>
       <hr className="w-full" />
-      <h4 className="text-xl font-base text-left w-full text-strong font-semibold">
+      <h4 className="text-xl text-left w-full text-strong font-semibold">
         {t("experience_title")}
       </h4>
       <Timeline />
-      <hr className="bg-gray-400 w-full" />
-      <h4 className="text-xl font-base text-left w-full text-strong font-semibold">
-        Proyectos
+      {/* <hr className="bg-gray-400 w-full" /> */}
+      <h4 className="text-xl text-left w-full text-strong font-semibold">
+        {t("projects_title")}
       </h4>
       <div className="grid grid-cols-1 w-full gap-4 lg:grid-cols-2">
         <ProjectCards
@@ -60,7 +71,7 @@ export default function Home() {
           link={t("projects.summe.link")}
         />
       </div>
-      <hr className="bg-gray-400 w-full mt-4" />
+      {/* <hr className="bg-gray-400 w-full mt-4" /> */}
       <h4 className="text-xl font-base text-left w-full text-strong font-semibold">
         Posts
       </h4>

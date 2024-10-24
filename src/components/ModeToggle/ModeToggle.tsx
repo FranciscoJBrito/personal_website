@@ -10,7 +10,7 @@ const ModeToggle = () => {
 
   return (
     <button
-      className="h-9 w-9 p-2 rounded-md hover:bg-gray-200 dark:hover:bg-gray-100/10"
+      className="h-9 w-9 p-2 rounded-md hover:bg-black/10 dark:hover:bg-gray-100/10"
       onClick={handleThemeChange}
     >
       {theme === "light" ? <MoonIcon /> : <SunIcon />}

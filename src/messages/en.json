@@ -18,7 +18,7 @@
         "description": "Colaboración con equipos multidisciplinarios para implementar soluciones tecnológicas adaptadas al sector inmobiliario. Desarrollo de REST API escalables con Node.js, Express, Prisma y PostgreSQL, y posterior implementación de GraphQL API utilizando NestJS. Integración con APIs de terceros para conectar portales inmobiliarios y CRMs. Creación de frontend con Next.js y React.js, tanto para clientes como para uso interno, con un enfoque en interfaces dinámicas y responsivas. Gestión y despliegue de aplicaciones en la nube con Vercel, Docker y AWS, garantizando escalabilidad y alto rendimiento."
       },
       "trichter_second": {
-        "title": "CTO - Chief Technology Officer",
+        "title": "Chief Technology Officer",
         "company": "Trichter Consulting",
         "location": "Playa del Carmen, México",
         "date": "Feb 2022 - Ago 2023",
@@ -34,8 +34,13 @@
     },
     "buttons": {
       "read_more": "Read more",
-      "read_less": "Read less"
+      "read_less": "Read less",
+      "download_cv": {
+        "text": "Download CV",
+        "link": "https://drive.google.com/file/d/1ZtvQFKe0TLPBHKja2TH_0tgFXJiBfKh6/view?usp=drive_link"
+      }
     },
+    "projects_title": "Projects",
     "projects": {
       "nodeverses": {
         "title": "Nodeverses",
