@@ -12,7 +12,7 @@ export default function Home() {
   const t = useTranslations("IndexPage");
 
   return (
-    <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 min-h-screen flex flex-col items-center gap-8 pt-20">
+    <main className="max-w-4xl mx-auto px-6 sm:px-6 lg:px-8 min-h-screen flex flex-col items-center gap-8 pt-20">
       <p className="text-base leading-7">
         {t.rich("profesional_description", {
           strong: (children) => (
