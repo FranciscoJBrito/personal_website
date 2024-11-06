@@ -86,6 +86,11 @@ export default function Home() {
           subtitle={t("posts.second.subtitle")}
           link={t("posts.second.link")}
         />
+        <BlogPostsCard
+          title={t("posts.third.title")}
+          subtitle={t("posts.third.subtitle")}
+          link={t("posts.third.link")}
+        />
       </div>
       <hr className="bg-gray-400 w-full mt-16" />
       <footer className="mb-6">

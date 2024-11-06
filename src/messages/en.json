@@ -77,6 +77,11 @@
         "title": "Authentication and Authorization with Node.js, Express, JWT and Next.js",
         "subtitle": "Part 2: Project Setup",
         "link": "https://medium.com/@francisco.brito.developer/autenticación-y-autorización-con-node-js-express-jwt-y-next-js-e76965be7246"
+      },
+      "third": {
+        "title": "Authentication and Authorization with Node.js, Express, JWT and Next.js",
+        "subtitle": "Part 3: Backend authentication",
+        "link": "https://medium.com/@francisco.brito.developer/autenticación-y-autorización-con-node-js-express-jwt-y-next-js-a96165cd32d5"
       }
     },
     "footer": {
