@@ -7,29 +7,29 @@
         "title": "Software Engineer",
         "company": "Beder",
         "location": "Barcelona, España",
-        "date": "Sep 2024 – Present",
-        "description": "Desarrollo de plataforma B2B para aerolíneas, destinada a la comercialización de videos bajo licencia. Frontend construido con Next.js y React, y API REST desarrollada con Node.js y Express, gestionada en Google Cloud y AWS. Despliegues automatizados mediante CI/CD e integración de IA Google Gemini para análisis de video. Además, mantenimiento de una app y webapp que permite a los usuarios reservar experiencias directamente desde los videos, combinando la inspiración de redes sociales con reservas en tiempo real."
+        "date": "Sep 2024 - Present",
+        "description": "Development of a B2B platform for airlines, aimed at marketing licensed videos. Frontend built with Next.js and React, and REST API developed with Node.js and Express, managed on Google Cloud and AWS. Automated deployments using CI/CD and Google Gemini AI integration for video analysis. Additionally, maintenance of an app and webapp that allows users to book experiences directly from videos, combining social media inspiration with real-time bookings."
       },
       "trichter_first": {
         "title": "Software Engineer",
         "company": "Trichter Consulting",
         "location": "Playa del Carmen, México",
-        "date": "Julio 2021 - Feb 2022",
-        "description": "Colaboración con equipos multidisciplinarios para implementar soluciones tecnológicas adaptadas al sector inmobiliario. Desarrollo de REST API escalables con Node.js, Express, Prisma y PostgreSQL, y posterior implementación de GraphQL API utilizando NestJS. Integración con APIs de terceros para conectar portales inmobiliarios y CRMs. Creación de frontend con Next.js y React.js, tanto para clientes como para uso interno, con un enfoque en interfaces dinámicas y responsivas. Gestión y despliegue de aplicaciones en la nube con Vercel, Docker y AWS, garantizando escalabilidad y alto rendimiento."
+        "date": "Jul 2021 - Feb 2022",
+        "description": "Collaboration with multidisciplinary teams to implement technological solutions tailored to the real estate sector. Development of scalable REST APIs with Node.js, Express, Prisma and PostgreSQL, and subsequent implementation of GraphQL APIs using NestJS. Integration with third-party APIs to connect real estate portals and CRMs. Creation of frontends with Next.js and React.js, both for clients and internal use, with a focus on dynamic and responsive interfaces. Management and deployment of cloud applications with Vercel, Docker and AWS, guaranteeing scalability and high performance."
       },
       "trichter_second": {
         "title": "Chief Technology Officer",
         "company": "Trichter Consulting",
         "location": "Playa del Carmen, México",
-        "date": "Feb 2022 - Ago 2023",
-        "description": "Colaboración con equipos multidisciplinarios para implementar soluciones tecnológicas adaptadas al sector inmobiliario. Desarrollo de REST API escalables con Node.js, Express, Prisma y PostgreSQL, y posterior implementación de GraphQL API utilizando NestJS. Integración con APIs de terceros para conectar portales inmobiliarios y CRMs. Creación de frontend con Next.js y React.js, tanto para clientes como para uso interno, con un enfoque en interfaces dinámicas y responsivas. Gestión y despliegue de aplicaciones en la nube con Vercel, Docker y AWS, garantizando escalabilidad y alto rendimiento."
+        "date": "Feb 2022 - Aug 2023",
+        "description": "Collaboration with executives to align business needs with strategic technology solutions that support long-term objectives. Leadership of technical team in developing both internal software and custom solutions for clients. Continuous monitoring of deployed systems, resolving issues quickly to minimize downtime and improve operational efficiency."
       },
       "freelance": {
         "title": "Software Developer",
         "company": "Freelance",
         "location": "Argentina",
-        "date": "Enero 2018 - Abril 2020",
-        "description": "Desarrollo y mantenimiento de sitios web utilizando WordPress, integrando WooCommerce para funcionalidades de comercio electrónico y Elementor para diseño de páginas eficiente. Creación, implementación y mantenimiento de sitios web con JavaScript, HTML, CSS, Sass y Bootstrap. Gestión de despliegues en hosting compartidos para proyectos de clientes. Uso de Bootstrap y Sass para crear interfaces web responsivas y visualmente atractivas."
+        "date": "January 2018 - April 2020",
+        "description": "Website development and maintenance using WordPress, integrating WooCommerce for eCommerce functionality and Elementor for efficient page layout. Website creation, implementation, and maintenance using JavaScript, HTML, CSS, Sass, and Bootstrap. Management of shared hosting deployments for client projects. Use of Bootstrap and Sass to create responsive and visually appealing web interfaces."
       }
     },
     "buttons": {
